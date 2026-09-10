@@ -185,10 +185,11 @@ Ruby                     ████████░░░░░░░░░░�
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkr62040/Deepakkr62040/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<h2 align="center">🐍 My Contribution Snake</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepakkr62040/Deepakkr62040/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 ---
 
 # 💻 Coding Profiles
