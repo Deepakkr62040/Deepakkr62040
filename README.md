@@ -1,242 +1,247 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-  Aspiring Software Developer | Java Developer | Full Stack Developer | AI Enthusiast
-</h3>
+# 👋 Hi, I'm **Deepak Kumar**
 
-<p align="center">
+### 🚀 Aspiring Software Developer | Java Developer | Full-Stack Developer | AI Enthusiast
+
+<p>
   <a href="https://github.com/Deepakkr62040">
-    <img src="https://komarev.com/ghpvc/?username=Deepakkr62040&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Deepakkr62040?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Deepakkr62040">
+    <img src="https://img.shields.io/github/stars/Deepakkr62040?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:deepakkr62040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Deepakkr62040?tab=followers">
-    <img src="https://img.shields.io/github/followers/Deepakkr62040?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Deepakkr62040?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Deepakkr62040&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working on **Discuss-FAQ Project**
+I'm a **BCA graduate and aspiring software developer** passionate about building practical applications and learning modern technologies.
+
+* 🔭 Currently working on **Discuss-FAQ**
 * 🌱 Currently learning **Spring Boot, R & Ruby**
-* 💻 Interested in **Java, Full Stack Development & AI**
-* 🤝 Looking to collaborate on **AI, Cybersecurity & Software Development projects**
-* 🧠 Exploring **Machine Learning, Explainable AI & Backend Development**
-* 💬 Ask me about **Java, Full Stack Development, Web Development & GitHub**
-* 📫 Reach me at **[deepakkr62040@gmail.com](mailto:deepakkr62040@gmail.com)**
-* ⚡ Fun fact: **I enjoy turning ideas into working projects.**
+* 💻 Interested in **Java, Full-Stack Development & AI**
+* 🤝 Open to collaborating on **AI / Machine Learning projects**
+* 🧠 Exploring **Deep Learning & Explainable AI**
+* ⚡ I enjoy solving programming problems and building projects
+* 🎯 Goal: Become a strong **Software Developer**
 
 ---
 
-## 🧑‍💻 Current Focus
-
-```text
-Java / Spring Boot       ███████████████████░░   Learning
-Full Stack Development   ██████████████████░░░   Building
-AI / Machine Learning    ███████████████░░░░░░   Exploring
-Cybersecurity            █████████████░░░░░░░░   Exploring
-Data / R                 ██████████░░░░░░░░░░░   Learning
-Ruby                     ████████░░░░░░░░░░░░░   Learning
-```
-
----
-
-# 🛠️ Languages & Technologies
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,php,ruby,r,kotlin,dart" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,django,php" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,dotnet" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### ☁️ Cloud, DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,linux" />
-</p>
-
-### 📱 Mobile & Other Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,android,arduino" />
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 💬 Discuss-FAQ
 
-<h3 align="center">💬 Discuss FAQ</h3>
+A discussion and FAQ based project designed to help users share questions, answers and useful information.
 
-<p align="center">
-  <a href="https://github.com/Deepakkr62040/Discuss-FAQ-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakkr62040&repo=Discuss-FAQ-project&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+**Tech:** Web Development
 
-<p align="center">
-  A project focused on creating a platform for discussions and frequently asked questions.
-</p>
+<a href="https://github.com/Deepakkr62040/Discuss-FAQ-project">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3 align="center">🛡️ Early Ransomware Prediction</h3>
+### 🛡️ Early Ransomware Prediction
 
-<p align="center">
-  <a href="https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakkr62040&repo=Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+Research-oriented project focused on **early ransomware prediction using behavioral analysis and explainable deep learning**.
 
-<p align="center">
-  Research-oriented project exploring behavioral analysis and explainable deep learning for early ransomware prediction.
-</p>
+**Focus:** AI • ML • Deep Learning • XAI
+
+<a href="https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,php,r,ruby,kotlin,dart" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,django" />
+</p>
+
+### ☕ Java & Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,firebase" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,linux" />
+</p>
+
+### 📱 Other Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,android,arduino,photoshop" />
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepakkr62040&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkr62040&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepakkr62040&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkr62040&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" />
+
+</div>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deepakkr62040&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com/?user=Deepakkr62040&theme=tokyonight&hide_border=true&border_radius=10" alt="Deepak Kumar GitHub Streak"/>
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepakkr62040&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&radius=8" alt="GitHub Activity Graph"/>
 
-# 📋 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakkr62040&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepakkr62040&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepakkr62040&theme=tokyonight" width="48%" />
-</p>
+</div>
 
 ---
 
-# 📅 Contribution Calendar
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&custom_title=Deepak's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Deepakkr62040&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies"/>
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkr62040/Deepakkr62040/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+</div>
 
 ---
 
-# 💻 Coding Profiles
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github.com/Deepakkr62040/Deepakkr62040/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📌 GitHub Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 📦 Repositories
+
+<a href="https://github.com/Deepakkr62040?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### ⭐ Stars
+
+<a href="https://github.com/Deepakkr62040?tab=stars">
+<img src="https://img.shields.io/github/stars/Deepakkr62040?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### 👥 Followers
+
+<a href="https://github.com/Deepakkr62040">
+<img src="https://img.shields.io/github/followers/Deepakkr62040?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💻 Coding Profiles
 
 <p align="center">
+
+<a href="https://github.com/Deepakkr62040">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://leetcode.com/Deepakkr62040">
-  <img src="https://img.shields.io/badge/LeetCode-Deepakkr62040-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-<a href="https://github.com/Deepakkr62040">
-  <img src="https://img.shields.io/badge/GitHub-Deepakkr62040-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/Deepakkr62040">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/deepak-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:deepakkr62040@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepakkr62040">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-<p align="center">
-  <i>"Great software is built one commit at a time."</i>
-</p>
+### 💭 Developer Mindset
 
----
+> **"Code. Learn. Build. Improve. Repeat."**
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" />
-</p>
+</div>
