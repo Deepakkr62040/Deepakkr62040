@@ -1,31 +1,242 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Aspiring Software Developer | Java | Web Development | AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkr62040&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkr62040" /> </p>
+<h3 align="center">
+  Aspiring Software Developer | Java Developer | Full Stack Developer | AI Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkr62040" alt="deepakkr62040" /></a> </p>
-
-- 🔭 I’m currently working on [Discuss-FAQ-project](https://github.com/Deepakkr62040/Discuss-FAQ-project)
-
-- 🌱 I’m currently learning **Spring Boot, R, and Ruby**
-
-- 👯 I’m looking to collaborate on [Early Ransomware Prediction Using Behavioral Analysis and Explainable Deep Learning.](https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning)
-
-- 🤝 I’m looking for help with [Early Ransomware Prediction Using Behavioral Analysis and Explainable Deep Learning.](https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **deepakkr62040@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepak kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepakkr62040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakkr62040" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Deepakkr62040">
+    <img src="https://komarev.com/ghpvc/?username=Deepakkr62040&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Deepakkr62040?tab=followers">
+    <img src="https://img.shields.io/github/followers/Deepakkr62040?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Deepakkr62040?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkr62040&show_icons=true&locale=en" alt="deepakkr62040" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkr62040&" alt="deepakkr62040" /></p>
+## 🚀 About Me
+
+* 🔭 Currently working on **Discuss-FAQ Project**
+* 🌱 Currently learning **Spring Boot, R & Ruby**
+* 💻 Interested in **Java, Full Stack Development & AI**
+* 🤝 Looking to collaborate on **AI, Cybersecurity & Software Development projects**
+* 🧠 Exploring **Machine Learning, Explainable AI & Backend Development**
+* 💬 Ask me about **Java, Full Stack Development, Web Development & GitHub**
+* 📫 Reach me at **[deepakkr62040@gmail.com](mailto:deepakkr62040@gmail.com)**
+* ⚡ Fun fact: **I enjoy turning ideas into working projects.**
+
+---
+
+## 🧑‍💻 Current Focus
+
+```text
+Java / Spring Boot       ███████████████████░░   Learning
+Full Stack Development   ██████████████████░░░   Building
+AI / Machine Learning    ███████████████░░░░░░   Exploring
+Cybersecurity            █████████████░░░░░░░░   Exploring
+Data / R                 ██████████░░░░░░░░░░░   Learning
+Ruby                     ████████░░░░░░░░░░░░░   Learning
+```
+
+---
+
+# 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,php,ruby,r,kotlin,dart" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,django,php" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,dotnet" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,linux" />
+</p>
+
+### 📱 Mobile & Other Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,android,arduino" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💬 Discuss FAQ</h3>
+
+<p align="center">
+  <a href="https://github.com/Deepakkr62040/Discuss-FAQ-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakkr62040&repo=Discuss-FAQ-project&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  A project focused on creating a platform for discussions and frequently asked questions.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛡️ Early Ransomware Prediction</h3>
+
+<p align="center">
+  <a href="https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakkr62040&repo=Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  Research-oriented project exploring behavioral analysis and explainable deep learning for early ransomware prediction.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepakkr62040&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkr62040&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepakkr62040&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepakkr62040&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakkr62040&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepakkr62040&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepakkr62040&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&custom_title=Deepak's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepakkr62040/Deepakkr62040/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/Deepakkr62040">
+  <img src="https://img.shields.io/badge/LeetCode-Deepakkr62040-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://github.com/Deepakkr62040">
+  <img src="https://img.shields.io/badge/GitHub-Deepakkr62040-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Deepakkr62040">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:deepakkr62040@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+  <i>"Great software is built one commit at a time."</i>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" />
+</p>
