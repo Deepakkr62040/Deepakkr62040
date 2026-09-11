@@ -32,6 +32,9 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <img src="https://github-profile-trophy.vercel.app/?username=deepakkr62040&theme=onedark&no-frame=true&row=2" alt="GitHub Trophy" />
 </div>
 
+<!-- GITHUB_STATS:START -->
+**⚡ GitHub Stats (Last Updated: Daily)**
+
 <div align="center">
   <table>
     <tr>
@@ -44,6 +47,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 <div align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkr62040&theme=onedark&layout=compact&langs_count=10&hide=html,css" alt="Top Languages" />
 </div>
+<!-- GITHUB_STATS:END -->
 
 ---
 
@@ -55,7 +59,22 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## ⭐ Featured Projects
+## 📊 Latest Activity & Repositories
+
+<!-- LATEST_REPOS:START -->
+**📌 Recent Repositories (Auto-Updated Daily)**
+
+| Repository | Stars | Language | Last Updated |
+|-----------|-------|----------|--------------|
+| [Secure-Your-Digital-World-with-AI-Cyber-Security](https://github.com/deepakkr62040/Secure-Your-Digital-World-with-AI-Cyber-Security) | ⭐ | Python | Today |
+| [Early-Ransomware-Prediction](https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning) | ⭐ | Python | Today |
+| [Discuss-FAQ-project](https://github.com/Deepakkr62040/Discuss-FAQ-project) | ⭐ | Java | Today |
+
+<!-- LATEST_REPOS:END -->
+
+---
+
+## 📚 Featured Projects
 
 ### 1️⃣ **Secure Your Digital World with AI Cyber Security**
    
@@ -297,15 +316,13 @@ A full-stack web application for collaborative discussions and FAQ management. U
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Let's+Build+Something+Secure+%26+Scalable!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/deepakkr62040/deepakkr62040/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
 ---
 
 <div align="center">
   
-**Last Updated:** September 2026 | Made with ❤️ by Deepak Kumar
+**Last Updated:** Daily via GitHub Actions ⚙️
+
+**Last Update Time:** <!-- LAST_UPDATED --> $(date) <!-- LAST_UPDATED_END -->
 
 ⭐ **If you find my projects helpful, please consider starring them!**
 
