@@ -1,20 +1,18 @@
-<!-- ======================= HEADER ======================= -->
-
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 
 <h3 align="center">
-  Aspiring Software Developer | Java | Web Development | AI Enthusiast
+Aspiring Software Developer | Java | Web Development | AI Enthusiast
 </h3>
 
 <p align="center">
   <a href="https://github.com/Deepakkr62040">
-    <img src="https://komarev.com/ghpvc/?username=deepakkr62040&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Deepakkr62040&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Deepakkr62040?tab=followers">
-    <img src="https://img.shields.io/github/followers/Deepakkr62040?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Deepakkr62040?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/Deepakkr62040">
-    <img src="https://img.shields.io/github/stars/Deepakkr62040?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
+  <a href="https://github.com/Deepakkr62040?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Deepakkr62040?label=Stars&style=flat" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -22,23 +20,21 @@
   <a href="https://github.com/Deepakkr62040">
     <img src="https://img.shields.io/badge/GitHub-Deepakkr62040-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate
-- 💻 Aspiring Software Developer
-- ☕ Currently focusing on **Java & Spring Boot**
-- 🌐 Interested in **Web Development**
-- 🤖 Exploring **Artificial Intelligence & Gen AI**
-- 📚 Currently learning **Spring Boot, R & Ruby**
-- 🚀 Interested in building practical and user-friendly applications
-- 💡 Always learning and improving my problem-solving skills
+* 🎓 BCA Graduate
+* 💻 Aspiring Software Developer
+* ☕ Focused on **Java & Spring Boot**
+* 🌐 Interested in **Web Development**
+* 🤖 Exploring **AI, Generative AI & AI Agents**
+* 📚 Currently learning **Spring Boot, R & Ruby**
+* 🧠 Improving my **Data Structures & Algorithms** skills
+* 🚀 Interested in building practical and user-friendly applications
+* 💡 Always learning, building and improving
 
 ---
 
@@ -46,180 +42,187 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,r,ruby" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,ruby,r" />
 </p>
 
-### 🌐 Web Development
+### ⚙️ Frameworks & Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,php" />
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🔧 Tools & Platforms
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
 </p>
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Projects
 
-## 🏥 Hospital Management System
+### 🏥 Hospital Management System
 
 A web-based Hospital Management System designed to simplify hospital operations and manage important healthcare-related information.
 
-### ✨ Key Features
+**Features:**
 
-- 👨‍⚕️ Doctor & Patient Management
-- 📅 Appointment Management
-- 🧾 Report Generation
-- 💳 Payment Integration
-- 🔐 User Authentication
-- 🗄️ Database Management
+* 👨‍⚕️ Doctor & Patient Management
+* 📅 Appointment Management
+* 🧾 Report Generation
+* 💳 Payment Integration
+* 🔐 User Authentication
+* 🗄️ Database Management
 
-### 🧰 Technologies
-
+**Tech Stack:**
 `HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL`
 
----
-
-## 🔥 Current Project
-
-### 🛡️ Early Ransomware Prediction Using Behavioral Analysis and Explainable Deep Learning
-
-Working on a research-oriented project focused on detecting ransomware behavior using behavioral analysis and explainable deep learning techniques.
-
-🔗 **Repository:**  
-[View Project](https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning)
+🔗 **[View Project](https://github.com/Deepakkr62040/Hospital-Management-System)**
 
 ---
 
-# 📊 GitHub Analytics
+### 🛡️ Early Ransomware Prediction
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Deepakkr62040&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true"
-    alt="Deepak's GitHub Stats"
-  />
-</p>
+A research-oriented project focused on detecting ransomware behavior using behavioral analysis and explainable deep learning techniques.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkr62040&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+🔗 **[View Project](https://github.com/Deepakkr62040)**
 
 ---
 
-# 🔥 Contribution Streak
+### 💬 Discuss FAQ Project
+
+A web-based project designed for discussions and frequently asked questions.
+
+**Tech Stack:**
+`PHP` `HTML` `CSS`
+
+🔗 **[View Project](https://github.com/Deepakkr62040/Discuss-FAQ-project)**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Deepakkr62040&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepakkr62040&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Deepak's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkr62040&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Deepakkr62040&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Deepakkr62040&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkr62040&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-# 📌 GitHub Overview
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakkr62040&repo=Discuss-FAQ-project&theme=tokyonight&hide_border=true"
-    alt="Discuss FAQ Project"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepakkr62040&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-# 📊 My GitHub Journey
+## 📌 GitHub Journey
 
 <p align="center">
 
-| 📌 Metric | 🚀 Status |
-|---|---|
-| 📦 Repositories | ![Repos](https://img.shields.io/github/repos/Deepakkr62040?style=flat-square) |
-| ⭐ Stars Received | ![Stars](https://img.shields.io/github/stars/Deepakkr62040?style=flat-square) |
-| 👥 Followers | ![Followers](https://img.shields.io/github/followers/Deepakkr62040?style=flat-square) |
-| 📝 Public Gists | ![Gists](https://img.shields.io/github/gists/Deepakkr62040?style=flat-square) |
+|        📊 Metric       |  🚀 Status  |
+| :--------------------: | :---------: |
+| 📦 Public Repositories |   Growing   |
+|    ⭐ Stars Received    |   Building  |
+|      👥 Followers      |   Growing   |
+| 🔥 Contribution Streak |  Improving  |
+|   💻 Coding Activity   |    Active   |
+|     🧠 DSA Practice    | In Progress |
 
 </p>
 
 ---
 
-# 💻 Problem Solving
+## 💻 Problem Solving
 
 I am continuously improving my problem-solving skills through coding practice and algorithmic challenges.
 
 ### 🎯 Focus Areas
 
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Recursion
-- Linked Lists
-- Stack & Queue
-- Trees
-- Dynamic Programming
-- Algorithms & Data Structures
+`Arrays` `Strings` `Searching` `Sorting`
+`Recursion` `Linked Lists` `Stack & Queue`
+`Trees` `Dynamic Programming` `Algorithms & Data Structures`
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ```text
 Java
-  └── Advanced Java
+ └── Advanced Java
       └── Spring Boot
-          └── Backend Development
+           └── Backend Development
 
 Web Development
-  ├── HTML
-  ├── CSS
-  └── JavaScript
+ ├── HTML
+ ├── CSS
+ └── JavaScript
 
 Programming Languages
-  ├── R
-  └── Ruby
+ ├── R
+ └── Ruby
 
 AI
-  └── Generative AI & AI Agents
+ └── Generative AI & AI Agents
+```
+
+---
+
+## 📂 My Repositories
+
+<p align="center">
+  <a href="https://github.com/Deepakkr62040?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Deepakkr62040">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🚀 My Goal
+
+> **Learn. Build. Improve. Repeat.**
+
+I believe consistent learning and practical projects are the best way to become a better software developer.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
