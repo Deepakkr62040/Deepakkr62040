@@ -32,9 +32,6 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <img src="https://github-profile-trophy.vercel.app/?username=deepakkr62040&theme=onedark&no-frame=true&row=2" alt="GitHub Trophy" />
 </div>
 
-<!-- GITHUB_STATS:START -->
-**⚡ GitHub Stats (Last Updated: Daily)**
-
 <div align="center">
   <table>
     <tr>
@@ -47,7 +44,6 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 <div align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkr62040&theme=onedark&layout=compact&langs_count=10&hide=html,css" alt="Top Languages" />
 </div>
-<!-- GITHUB_STATS:END -->
 
 ---
 
@@ -87,11 +83,8 @@ An intelligent cybersecurity system designed to detect suspicious activities and
 - 📊 Behavioral pattern analysis
 - ⚠️ Real-time security alerts
 - 🛡️ Proactive cyber threat identification
-- 📈 Data-driven security insights
 
-**Tech Stack:** Python, TensorFlow, Deep Learning, Behavioral Analysis, Data Science
-
-🔗 **[View Repository](https://github.com/deepakkr62040/Secure-Your-Digital-World-with-AI-Cyber-Security)** | ⭐ **Star if you find it useful!**
+🔗 **[View Repository](https://github.com/deepakkr62040/Secure-Your-Digital-World-with-AI-Cyber-Security)**
 
 ---
 
@@ -99,18 +92,9 @@ An intelligent cybersecurity system designed to detect suspicious activities and
 
 **🎯 Explainable Deep Learning for Ransomware Detection**
 
-A machine learning project focused on early detection of ransomware threats through behavioral analysis and explainable deep learning models. This system helps organizations identify potential attacks before they cause damage.
+A machine learning project focused on early detection of ransomware threats through behavioral analysis and explainable deep learning models.
 
-**Key Features:**
-- 🔍 Behavioral pattern recognition
-- 🧠 Explainable AI (XAI) implementation
-- 🚨 Early threat prediction
-- 📉 Ransomware classification
-- 🔐 Security risk assessment
-
-**Tech Stack:** Python, Deep Learning, XAI, Behavioral Analysis, Security
-
-🔗 **[View Repository](https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning)** | 🤝 **Looking for collaborators!**
+🔗 **[View Repository](https://github.com/Deepakkr62040/Early-Ransomware-Prediction-Using-Behavioral-Analysis-and-Explainable-Deep-Learning)**
 
 ---
 
@@ -118,25 +102,16 @@ A machine learning project focused on early detection of ransomware threats thro
 
 **💬 Community Discussion & FAQ Management Platform**
 
-A full-stack web application for collaborative discussions and FAQ management. Users can post questions, share answers, and build a knowledge base with a modern, responsive interface.
+A full-stack web application for collaborative discussions and FAQ management.
 
-**Key Features:**
-- 👥 User authentication & profiles
-- 💬 Real-time discussions
-- ❓ FAQ management system
-- 🔍 Search & filtering
-- 📱 Fully responsive design
-
-**Tech Stack:** Java, Spring Boot, React, MySQL, Bootstrap
-
-🔗 **[View Repository](https://github.com/Deepakkr62040/Discuss-FAQ-project)** | 🚀 **Currently Active**
+🔗 **[View Repository](https://github.com/Deepakkr62040/Discuss-FAQ-project)**
 
 ---
 
-## 🛠️ Full Stack Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-  <h3>💻 Programming Languages</h3>
+  <h3>💻 Languages</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -150,7 +125,7 @@ A full-stack web application for collaborative discussions and FAQ management. U
 </div>
 
 <div align="center">
-  <h3>🎨 Frontend Development</h3>
+  <h3>🎨 Frontend</h3>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -159,114 +134,17 @@ A full-stack web application for collaborative discussions and FAQ management. U
 </div>
 
 <div align="center">
-  <h3>⚙️ Backend & Frameworks</h3>
+  <h3>⚙️ Backend</h3>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
 <div align="center">
-  <h3>🗄️ Databases & Data</h3>
+  <h3>🗄️ Databases</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
-
-<div align="center">
-  <h3>☁️ Cloud, DevOps & Security</h3>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
-<div align="center">
-  <h3>🤖 AI & Machine Learning</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-ED8B00?style=for-the-badge&logo=security&logoColor=white" />
-</div>
-
-<div align="center">
-  <h3>🧪 Testing & Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</div>
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <h4>🌐 Full Stack</h4>
-        <p>End-to-end web application development with modern frameworks</p>
-      </td>
-      <td width="33%">
-        <h4>🔐 Cybersecurity</h4>
-        <p>AI-driven threat detection and security analysis</p>
-      </td>
-      <td width="33%">
-        <h4>🤖 AI/ML</h4>
-        <p>Deep learning, behavioral analysis, and predictive modeling</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%">
-        <h4>☁️ Cloud & DevOps</h4>
-        <p>AWS, Azure, Docker, Kubernetes deployment</p>
-      </td>
-      <td width="33%">
-        <h4>💻 Backend Systems</h4>
-        <p>Spring Boot, REST APIs, microservices, databases</p>
-      </td>
-      <td width="33%">
-        <h4>🧠 Problem Solving</h4>
-        <p>Algorithmic challenges, competitive programming</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 Repository & Contribution Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakkr62040&theme=onedark" alt="Profile Details" width="100%"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkr62040&theme=onedark" alt="Repos per Language"/></td>
-      <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakkr62040&theme=onedark" alt="Most Commit Language"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏅 Competitive Programming & LeetCode
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  
-  **[View My LeetCode Profile](https://leetcode.com/u/Deepakkr62040/)**
-  
-  💪 Solving algorithmic challenges and improving problem-solving skills
-  
-  🎯 Focus Areas: Data Structures, Algorithms, System Design
 </div>
 
 ---
@@ -290,42 +168,12 @@ A full-stack web application for collaborative discussions and FAQ management. U
 
 ---
 
-## 💡 Why Work With Me?
-
-| 🎯 | **Goal-Oriented** | Committed to delivering high-quality, scalable solutions |
-|----|-------------------|-------------------------------------------------------|
-| 🔥 | **Passionate** | Love solving real-world problems through innovative code |
-| 📚 | **Continuous Learner** | Always exploring new technologies and best practices |
-| 🤝 | **Collaborative** | Thrive in team environments and open-source projects |
-| 🚀 | **Full Stack Expert** | Comfortable across frontend, backend, cloud, and security |
-| 🧠 | **Problem Solver** | Strong algorithmic thinking and competitive programming skills |
-
----
-
-## 📈 What I'm Building
-
-✅ Scalable full-stack applications with modern architectures  
-✅ AI-driven cybersecurity and threat detection systems  
-✅ Intelligent systems using deep learning and behavioral analysis  
-✅ Cloud-native and containerized applications  
-✅ Open-source contributions to the tech community  
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Let's+Build+Something+Secure+%26+Scalable!" alt="Typing SVG" />
-</div>
 
----
+**Last Updated:** <!-- LAST_UPDATED -->2024-09-12 12:00:00 UTC<!-- LAST_UPDATED_END -->
 
-<div align="center">
-  
-**Last Updated:** Daily via GitHub Actions ⚙️
+⭐ If you find my projects helpful, please consider starring them!
 
-**Last Update Time:** <!-- LAST_UPDATED --> $(date) <!-- LAST_UPDATED_END -->
-
-⭐ **If you find my projects helpful, please consider starring them!**
-
-🚀 **Open to collaboration, freelance projects, and full-time opportunities**
+🚀 Open to collaboration, freelance projects, and full-time opportunities
 
 </div>
